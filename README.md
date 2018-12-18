@@ -5,10 +5,10 @@ Introduction To Maching Learning - 2018F
 - My teammates finished it
 
 ### HW2 - K-Means & KD-Tree
-- ==Finished==
+- **Finished**
 
 ### HW3 - Linear Regression
-- ==Finished==
+- **Finished**
 
 ### HW4 - Neural Network Propagation
-- ==Finished==
+- **Finished**
