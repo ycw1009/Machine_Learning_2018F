@@ -1,4 +1,4 @@
-Introduction To Maching Learning - 2018F
+Introduction To Machine Learning - 2018F
 ===
 ## Assignments
 ### HW1 - Random Forest
